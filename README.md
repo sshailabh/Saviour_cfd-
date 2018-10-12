@@ -25,3 +25,7 @@ Basic Features will include:
 - Adjust text size
 - Provide feedback regarding credibility of the post to prevent fraudulent posts
 - Adjust settings to display distance in kilometers or miles
+
+
+Along with these basic features and uses, our app shall also broadcast the data collected and the alerts announced by the several
+ internationally acclaimed and well-renowned sites like GDACS(Global Disaster Alert and Coordination system).It would help in making these reliable sources reachable to the common people.Also we aim to provide a compressed form of all the results and announcements by several sites so that the app could be more people-friendly and practically implementable for the common people.
